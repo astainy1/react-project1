@@ -1,0 +1,9 @@
+.list-group,
+.alert {
+  width: 50%;
+  font-size: 1.3rem;
+}
+
+button {
+  margin-right: 0.5rem;
+}
